@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Brandon Cummings! 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rbcmgs_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <!--
 **rbcmgs/rbcmgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
