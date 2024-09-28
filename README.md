@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Brandon Cummings! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rbcmgs_visitor_badge_simple&left_color=royalblue&right_color=black"  />
-
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+  </a>
+</p>
 <!--
 **rbcmgs/rbcmgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
