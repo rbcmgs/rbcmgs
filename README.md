@@ -1,6 +1,4 @@
-<h1 align="left">Hi, I'm Brandon Cummings! 👋 </h1>
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rbcmgs_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+<h1 align="left">Hi, I'm Brandon Cummings! 👋 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rbcmgs_visitor_badge_simple&left_color=royalblue&right_color=black"  /></h1>
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 <p align="center">
