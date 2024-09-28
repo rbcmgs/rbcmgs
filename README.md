@@ -3,7 +3,7 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,alpinejs,angular,ansible,apollo,apple,arch,aws,azure,babel,bash,bootstrap,bsd,c,cs, cpp,cloudflare,cmake,codepen,css,debian,discord,docker,dotnet,elasticsearch,express,fastapi,figma,firebase,gcp,git,github,githubactions,gitlab,graphql,gulp,heroku,html,htmx,ipfs,js,jest,jquery,kafka,kali,kubernetes,less,linux,lua,md,materialui,mint,mongodb,mysql,nginx,nodejs,npm,perl,php,postgres,postman,powershell,py,pycharm,pytorch,r,react,redhat,redis,redux,regex,sass,sqlite,styledcomponents,sublime,sequelize,solidity,svg,tailwind,tensorflow,ts,ubuntu,unity,unreal,vercel,vim,visualstudio,vscode,vue,webpack,windows,wordpress,yarn" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,alpinejs,angular,ansible,apollo,apple,arch,aws,azure,babel,bash,bootstrap,bsd,c,cs,cpp,cloudflare,cmake,codepen,css,debian,discord,docker,dotnet,elasticsearch,express,fastapi,figma,firebase,gcp,git,github,githubactions,gitlab,graphql,gulp,heroku,html,htmx,ipfs,js,jest,jquery,kafka,kali,kubernetes,less,linux,lua,md,materialui,mint,mongodb,mysql,nginx,nodejs,npm,perl,php,postgres,postman,powershell,py,pycharm,pytorch,r,react,redhat,redis,redux,regex,sass,sqlite,styledcomponents,sublime,sequelize,solidity,svg,tailwind,tensorflow,ts,ubuntu,unity,unreal,vercel,vim,visualstudio,vscode,vue,webpack,windows,wordpress,yarn" alt="Skills and tools"/>
   </a>
 </p>
 <!--
