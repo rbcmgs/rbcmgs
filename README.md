@@ -8,9 +8,12 @@ I've been working in the tech industry for over 20 years and have experience in 
 
 ### :mailbox: Get in touch
 
+- Email me: [b@cmgs.io](mailto:b@cmgs.io)
+
+### :handshake: Connect with me
+
 - LinkedIn: [linkedin.com/in/rbcmgs](https://www.linkedin.com/in/rbcmgs)
 - Twitter: [twitter.com/rbcmgs](https://twitter.com/rbcmgs)
-- Personal Site: [cmgs.io](https://cmgs.io)
 
 ### :seedling: Currently Learning
 
@@ -23,6 +26,11 @@ I'm currently learning more about Kubernetes, Docker, and Ansible. I'm also divi
 ### :hammer_and_wrench: Other Languages and Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,alpinejs,angular,ansible,apollo,apple,arch,aws,azure,bsd,c,cs,cpp,cmake,codepen,css,debian,discord,dotnet,fastapi,figma,firebase,gcp,github,githubactions,gitlab,gulp,heroku,html,htmx,ipfs,jquery,kafka,kali,kubernetes,less,linux,lua,md,mint,mysql,perl,php,powershell,r,redhat,redis,redux,regex,sqlite,styledcomponents,sublime,sequelize,svg,tailwind,tensorflow,ubuntu,unity,unreal,vercel,vim,visualstudio,vue)](https://skillicons.dev)
+
+### :books: What I'm Reading
+
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas (An oldie but a goodie!)
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) by Gene Kim, Kevin Behr, and George Spafford.
 
 ### :bar_chart: My GitHub Stats
 
