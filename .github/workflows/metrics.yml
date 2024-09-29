@@ -46,9 +46,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: true
+          base_hireable: true
           config_octicon: true
-          config_timezone: America/Chicago
+          config_timezone: America/New_York
           config_twemoji: true
+          config_display: large
+          plugin_achievements: true
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
