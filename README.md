@@ -1,7 +1,29 @@
-# Hi, I'm Brandon Cummings! 👋 <span style="float: right;">![visitors](https://visitor-badge.laobi.icu/badge?page_id=rbcmgs_visitor_badge_simple&left_color=royalblue&right_color=black)</span>
+# Hi, there! I'm Brandon! :wave: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rbcmgs_visitor_badge_simple&left_color=royalblue&right_color=black)
 
-### :hammer_and_wrench: Languages and Tools
+### :memo: About Me
 
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,alpinejs,angular,ansible,apollo,apple,arch,aws,azure,babel,bash,bootstrap,bsd,c,cs,cpp,cloudflare,cmake,codepen,css,debian,discord,docker,dotnet,elasticsearch,express,fastapi,figma,firebase,gcp,git,github,githubactions,gitlab,graphql,gulp,heroku,html,htmx,ipfs,js,jest,jquery,kafka,kali,kubernetes,less,linux,lua,md,materialui,mint,mongodb,mysql,nginx,nodejs,npm,perl,php,postgres,postman,powershell,py,pycharm,pytorch,r,react,redhat,redis,redux,regex,sass,sqlite,styledcomponents,sublime,sequelize,solidity,svg,tailwind,tensorflow,ts,ubuntu,unity,unreal,vercel,vim,visualstudio,vscode,vue,webpack,windows,wordpress,yarn)](https://skillicons.dev)
+My name is Brandon Cummings, and I'm a software engineer who is passionate about clean and agile code, creating technology to elevate people, and building tools that scale well. Some technologies I enjoy working with include ReactJS, NodeJS, and Python.
 
-![if you see this, it means my metrics are not working](https://github.com/rbcmgs/rbcmgs/blob/main/github-metrics.svg)
+I've been working in the tech industry for over 20 years and have experience in a variety of roles including software engineering, technical writing, project management, and more. I'm always looking to learn new things and improve my skills. I'm currently working as a Senior Security Engineer at [Léargas Security](https://www.leargassecurity.com/).
+
+### :mailbox: Get in touch
+
+- LinkedIn: [linkedin.com/in/rbcmgs](https://www.linkedin.com/in/rbcmgs)
+- Twitter: [twitter.com/rbcmgs](https://twitter.com/rbcmgs)
+- Personal Site: [cmgs.io](https://cmgs.io)
+
+### :seedling: Currently Learning
+
+I'm currently learning more about Kubernetes, Docker, and Ansible. I'm also diving deeper into advanced TypeScript and using Python and R for data science and machine learning. My current studies are focused on developing enterprise-level applications and services that are secure, scalable, and maintainable.
+
+### :ok_hand: My Specialties
+
+[![My Skills](https://skillicons.dev/icons?i=babel,bash,bootstrap,cloudflare,docker,elasticsearch,express,git,graphql,js,jest,materialui,mongodb,nginx,nodejs,npm,postgres,postman,py,pycharm,pytorch,react,sass,solidity,ts,vscode,webpack,windows,wordpress,yarn)](https://skillicons.dev)
+
+### :hammer_and_wrench: Other Languages and Tools I Use
+
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,alpinejs,angular,ansible,apollo,apple,arch,aws,azure,bsd,c,cs,cpp,cmake,codepen,css,debian,discord,dotnet,fastapi,figma,firebase,gcp,github,githubactions,gitlab,gulp,heroku,html,htmx,ipfs,jquery,kafka,kali,kubernetes,less,linux,lua,md,mint,mysql,perl,php,powershell,r,redhat,redis,redux,regex,sqlite,styledcomponents,sublime,sequelize,svg,tailwind,tensorflow,ubuntu,unity,unreal,vercel,vim,visualstudio,vue)](https://skillicons.dev)
+
+### :bar_chart: My GitHub Stats
+
+![if you see this, it means my metrics are not working](https://raw.githubusercontent.com/rbcmgs/rbcmgs/refs/heads/main/github-metrics.svg)
