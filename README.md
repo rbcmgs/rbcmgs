@@ -29,7 +29,6 @@ I'm currently learning more about Kubernetes, Docker, and Ansible. I'm also divi
 
 ### :books: What I'm Reading
 
-- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas (An oldie but a goodie!)
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) by Gene Kim, Kevin Behr, and George Spafford.
 
 ### :bar_chart: My GitHub Stats
