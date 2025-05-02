@@ -51,7 +51,7 @@ jobs:
           config_timezone: America/New_York
           config_twemoji: true
           config_display: large
-          plugin_achievements: true
+          plugin_achievements: false
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
