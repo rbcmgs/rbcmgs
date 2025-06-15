@@ -2,9 +2,9 @@
 
 ### :memo: About Me
 
-My name is Brandon Cummings, and I'm a software engineer who is passionate about clean and agile code, creating technology to elevate people, and building tools that scale well. Some technologies I enjoy working with include ReactJS, NodeJS, and Python.
+I'm a software engineer who is passionate about clean and agile code, and creating tools to elevate people.
 
-I've been working in the tech industry for over 25 years and have experience in a variety of roles including software engineering, technical writing, project management, and others. I am currently serving as Director of Platform Development at [Léargas Security](https://www.leargassecurity.com/).
+I've been in the IT industry for over 25 years and have experience in a variety of roles including software engineering, technical writing, project management, and others. I am currently serving as Director of Platform Development at [Léargas Security](https://www.leargassecurity.com/).
 
 ### :mailbox: Get in touch
 
