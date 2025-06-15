@@ -19,10 +19,6 @@ I've been working in the tech industry for over 25 years and have experience in 
 
 [![My Skills](https://skillicons.dev/icons?i=babel,bash,bootstrap,cloudflare,docker,elasticsearch,express,git,graphql,js,jest,materialui,mongodb,nginx,nodejs,npm,postgres,postman,py,pycharm,pytorch,react,sass,solidity,ts,vscode,webpack,windows,wordpress,yarn)](https://skillicons.dev)
 
-### :hammer_and_wrench: Other Languages and Tools I Use
-
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,alpinejs,angular,ansible,apollo,apple,arch,aws,azure,bsd,c,cs,cpp,cmake,codepen,css,debian,discord,dotnet,fastapi,figma,firebase,gcp,github,githubactions,gitlab,gulp,heroku,html,htmx,ipfs,jquery,kafka,kali,kubernetes,less,linux,lua,md,mint,mysql,perl,php,powershell,r,redhat,redis,redux,regex,sqlite,styledcomponents,sublime,sequelize,svg,tailwind,tensorflow,ubuntu,unity,unreal,vercel,vim,visualstudio,vue)](https://skillicons.dev)
-
 ### :bar_chart: My GitHub Stats
 
 ![if you see this, it means my metrics are not working](https://raw.githubusercontent.com/rbcmgs/rbcmgs/refs/heads/main/github-metrics.svg)
