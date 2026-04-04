@@ -53,17 +53,12 @@ jobs:
           config_display: large
           plugin_achievements: false
           plugin_languages: true
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 0
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_colors: github
           plugin_languages_ignored: SVG, robots.txt
-          plugin_languages_indepth: true
+          plugin_languages_indepth: false
           plugin_languages_limit: 8
           plugin_languages_other: true
-          plugin_languages_recent_categories: data, markup, programming, prose
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
         env:
