@@ -15,10 +15,10 @@ I've been in the IT industry for over 25 years and have experience in a variety 
 - LinkedIn: [linkedin.com/in/rbcmgs](https://www.linkedin.com/in/rbcmgs)
 - Twitter: [twitter.com/rbcmgs](https://twitter.com/rbcmgs)
 
-### :ok_hand: My Specialties
+### :ok_hand: Specialties
 
 [![My Skills](https://skillicons.dev/icons?i=babel,bash,bootstrap,cloudflare,docker,elasticsearch,express,git,graphql,js,jest,materialui,mongodb,nginx,nodejs,npm,postgres,postman,py,pycharm,pytorch,react,sass,solidity,ts,vscode,webpack,windows,wordpress,yarn)](https://skillicons.dev)
 
-### :bar_chart: My GitHub Stats
+### :bar_chart: GitHub Stats
 
 ![if you see this, it means my metrics are not working](https://raw.githubusercontent.com/rbcmgs/rbcmgs/refs/heads/main/github-metrics.svg)
