@@ -57,6 +57,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 0
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_colors: github
+          plugin_languages_ignored: SVG, robots.txt
           plugin_languages_indepth: true
           plugin_languages_limit: 8
           plugin_languages_other: true
