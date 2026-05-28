@@ -186,12 +186,7 @@ to deliver exceptional products while maintaining the highest security standards
 
 ![GitHub Metrics](https://raw.githubusercontent.com/rbcmgs/rbcmgs/main/github-metrics.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbcmgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbcmgs&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbcmgs&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rbcmgs&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Contribution Snake
 
