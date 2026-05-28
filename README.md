@@ -186,8 +186,6 @@ to deliver exceptional products while maintaining the highest security standards
 
 ![GitHub Metrics](https://raw.githubusercontent.com/rbcmgs/rbcmgs/main/github-metrics.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbcmgs&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ### Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/rbcmgs/rbcmgs/output/github-contribution-grid-snake-dark.svg)
