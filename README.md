@@ -112,6 +112,45 @@ to deliver exceptional products while maintaining the highest security standards
 
 ---
 
+## Platform Architecture Approach
+
+```mermaid
+graph TB
+    subgraph "Security Platform"
+        A[Threat Detection Engine] --> B[AI/LLM Analysis]
+        B --> C[Automated Response]
+        A --> D[Real-time Monitoring]
+    end
+    
+    subgraph "Data Layer"
+        E[Data Ingestion] --> F[Stream Processing]
+        F --> G[Event Correlation]
+        G --> A
+    end
+    
+    subgraph "Infrastructure"
+        H[Kubernetes Orchestration] --> I[Microservices]
+        I --> J[API Gateway]
+        J --> K[Zero Trust Network]
+    end
+    
+    subgraph "IT/OT Convergence"
+        L[IT Systems] --> E
+        M[OT Devices] --> E
+        N[Cloud Services] --> E
+    end
+    
+    C --> O[Security Operations]
+    D --> O
+    K --> A
+    
+    style A fill:#4285F4,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#EA4335,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#34A853,stroke:#333,stroke-width:2px,color:#fff
+```
+
+---
+
 ## Core Competencies
 
 ### Languages & Frameworks
@@ -207,9 +246,9 @@ to deliver exceptional products while maintaining the highest security standards
 
 ![GitHub Metrics](https://raw.githubusercontent.com/rbcmgs/rbcmgs/main/github-metrics.svg)
 
-### Contribution Snake
+### 3D Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/rbcmgs/rbcmgs/output/github-contribution-grid-snake-dark.svg)
+![3D Contribution](https://github-contributions.vercel.app/api/v1/3d?username=rbcmgs&theme=dark)
 
 ---
 
