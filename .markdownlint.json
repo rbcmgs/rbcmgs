@@ -1,0 +1,38 @@
+{
+  "default": true,
+  "MD007": {
+    "indent": 4
+  },
+  "MD010": {
+    "code_blocks": false
+  },
+  "MD013": {
+    "line_length": 120,
+    "code_blocks": false,
+    "tables": true
+  },
+  "MD024": false,
+  "MD025": {
+    "front_matter_title": ""
+  },
+  "MD028": false,
+  "MD031": false,
+  "MD033": {
+    "allowed_elements": [
+      "a",
+      "img",
+      "kbd",
+      "br",
+      "details",
+      "summary",
+      "div",
+      "table",
+      "tr",
+      "td",
+      "b"
+    ]
+  },
+  "MD036": false,
+  "MD041": false,
+  "MD046": false
+}
