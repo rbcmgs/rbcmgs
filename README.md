@@ -1,8 +1,9 @@
 # Hi, I'm Brandon Cummings
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Director+of+Platform+Development+%40+L%C3%A9argas+Security;25%2B+Years+in+IT+%26+Web+Technology;Cybersecurity+%7C+AI%2FLLM+Integration+%7C+Platform+Architecture;Full-Stack+Engineer+%7C+Technical+Leader+%7C+Security+Advocate)](https://git.io/typing-svg)
+**Director of Platform Development @ Léargas Security** | 25+ Years in IT & Web Technology
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rbcmgs_visitor_badge_simple&left_color=royalblue&right_color=black)
+**Cybersecurity | AI/LLM Integration | Platform Architecture | Full-Stack Engineer | Technical Leader**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rbcmgs)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rbcmgs)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:b@cmgs.io)
@@ -36,9 +37,6 @@ to deliver exceptional products while maintaining the highest security standards
 ---
 
 ## The Journey: 25 Years in Technology
-
-<details>
-<summary><b>Career Timeline (Click to expand)</b></summary>
 
 ### 2020s - Cybersecurity & AI Era
 
@@ -76,15 +74,9 @@ to deliver exceptional products while maintaining the highest security standards
 - Managed servers, networks, and IT infrastructure
 - Witnessed and participated in the dot-com boom and evolution of the modern web
 
-</details>
-
 ---
 
 ## Current Focus & Expertise
-
-<table>
-<tr>
-<td valign="top" width="50%">
 
 ### Technical Leadership
 
@@ -94,17 +86,6 @@ to deliver exceptional products while maintaining the highest security standards
 - Roadmap planning & delivery execution
 - Cross-functional collaboration
 
-### AI & Automation
-
-- LLM integration for security operations
-- Intelligent automation & orchestration
-- AI-powered detection & analysis
-- Natural language processing applications
-- Machine learning model deployment
-
-</td>
-<td valign="top" width="50%">
-
 ### Security & Infrastructure
 
 - IT/OT security platform development
@@ -113,6 +94,14 @@ to deliver exceptional products while maintaining the highest security standards
 - Container orchestration (Kubernetes/Docker)
 - Zero-trust network design
 
+### AI & Automation
+
+- LLM integration for security operations
+- Intelligent automation & orchestration
+- AI-powered detection & analysis
+- Natural language processing applications
+- Machine learning model deployment
+
 ### Data & Analytics
 
 - Data pipeline engineering
@@ -120,10 +109,6 @@ to deliver exceptional products while maintaining the highest security standards
 - Data modeling & optimization
 - Business intelligence & visualization
 - Log aggregation & observability
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -346,6 +331,8 @@ I'm always interested in discussing:
 > "Twenty-five years of experience isn't just about time—it's about evolution, adaptation, and
 > continuous growth in an ever-changing field."
 
-![Profile Views](https://komarev.com/ghpvc/?username=rbcmgs&color=blueviolet&style=for-the-badge&label=Profile+Views)
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rbcmgs.rbcmgs&left_color=royalblue&right_color=black)
 
 **If you find my work interesting, consider starring some repositories!**
