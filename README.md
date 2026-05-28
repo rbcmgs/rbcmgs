@@ -326,6 +326,6 @@ I'm always interested in discussing:
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rbcmgs.rbcmgs&left_color=royalblue&right_color=black)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rbcmgs_visitor_badge_simple&left_color=royalblue&right_color=black)
 
 **If you find my work interesting, consider starring some repositories!**
