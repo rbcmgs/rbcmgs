@@ -246,10 +246,6 @@ graph TB
 
 ![GitHub Metrics](https://raw.githubusercontent.com/rbcmgs/rbcmgs/main/github-metrics.svg)
 
-### Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rbcmgs&theme=tokyo-night&hide_border=true&area=true)](https://github.com/rbcmgs)
-
 ---
 
 ## Professional Highlights
