@@ -220,13 +220,14 @@ to deliver exceptional products while maintaining the highest security standards
 </details>
 
 <details>
-<summary><b>Speaking & Community (Click to expand)</b></summary>
+<summary><b>Leadership & Mentorship (Click to expand)</b></summary>
 
-- Technical architecture presentations at enterprise organizations
-- Internal training sessions on security best practices
-- Mentorship of junior and mid-level engineers
-- Code review leadership and engineering culture building
-- Active participation in security and development communities
+- Technical mentorship and career development for junior and mid-level engineers
+- Code review leadership and promotion of engineering best practices
+- Cross-functional team collaboration and communication
+- Driving engineering culture focused on quality, security, and continuous improvement
+- Knowledge sharing through internal documentation and technical guidance
+- Building strong team dynamics and fostering inclusive engineering environments
 
 </details>
 
