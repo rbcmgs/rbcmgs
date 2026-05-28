@@ -246,9 +246,9 @@ graph TB
 
 ![GitHub Metrics](https://raw.githubusercontent.com/rbcmgs/rbcmgs/main/github-metrics.svg)
 
-### 3D Contribution Graph
+### Contribution Activity
 
-![3D Contribution](https://github-contributions.vercel.app/api/v1/3d?username=rbcmgs&theme=dark)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rbcmgs&theme=tokyo-night&hide_border=true&area=true)](https://github.com/rbcmgs)
 
 ---
 
